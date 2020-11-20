@@ -6,4 +6,5 @@ float b=3.2;
 float s;
 s=a+b;
 printf("%f",s);
+  get char()
 }
