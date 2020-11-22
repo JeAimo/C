@@ -8,3 +8,11 @@ s=a+b;
 printf("%f",s);
   get char()
 }
+
+
+
+
+
+
+
+
